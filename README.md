@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachidattous?tab=repositories](https://github.com/rachidattous?tab=repositories)
 
-- 📫 How to reach me **rachidattous@berexia.com**
+- 📫 How to reach me **rachid.attous@berexia.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rachid-attous-353a391bb/](https://www.linkedin.com/in/rachid-attous-353a391bb/)
 
