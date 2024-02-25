@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ATTOUS RACHID</h1>
-<h3 align="center">I am a software engineer with a specialisation in back-end development, with a strong track record in creating efficient and scalable solutions. Proficient in Java and Spring Boot</h3>
+<h3 align="center">I am a software engineer with a specialisation in back-end development, with a strong track record in creating efficient and scalable solutions</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachidattous?tab=repositories](https://github.com/rachidattous?tab=repositories)
 
